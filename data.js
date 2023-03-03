@@ -1,5 +1,11 @@
 module.exports = [
   {
+    name: "Yashashri Gawande",
+    description: "The world of AI : How Artificial Intelligence will change the world ?",
+    url: "https://medium.com/@yashashrigawande02/the-world-of-ai-how-artificial-intelligence-will-change-the-world-514cb7e0f7bc"
+    tags: ["artificial intelligence"],
+  },
+  {
     name: "Afobaje",
     description: "front end reactjs developer and technical writer",
     url: "https://afobaje.hashnode.dev",
